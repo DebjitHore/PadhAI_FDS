@@ -2,4 +2,5 @@ Contains codealong files and assignment notebooks for PadhAI FDS course and Gorm
 
 
 
-Certificate PadhAI 2022-02-26.pdf
+
+![image](https://user-images.githubusercontent.com/37710310/155840596-69b878d7-e1d2-489f-b1f4-b65f5ad6a3c9.png)
